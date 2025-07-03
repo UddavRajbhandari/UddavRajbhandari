@@ -20,6 +20,7 @@ Welcome to my GitHub! I am a Data Science and AI enthusiast passionate about sol
 ![Uddav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UddavRajbhandari&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UddavRajbhandari&layout=compact&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UddavRajbhandari&" alt="UddavRajbhandari" /></p>
+
 ## 📚 Education
 
 - **Bachelor in Computer Engineering**, Khwopa College of Engineering (Expected: 2083 BS)
