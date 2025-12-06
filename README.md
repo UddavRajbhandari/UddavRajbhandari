@@ -36,9 +36,6 @@ Welcome to my GitHub! I am a Data Science and AI enthusiast passionate about sol
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> 
   </a>
-  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Kaggle_logo.svg" alt="kaggle" width="40" height="40"/> 
-  </a>
   <a href="https://www.jupyter.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
   </a>
