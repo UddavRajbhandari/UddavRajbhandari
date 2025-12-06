@@ -4,16 +4,16 @@ Welcome to my GitHub! I am a Data Science and AI enthusiast passionate about sol
 
 ## 🧠 About Me
 
-- **🔭 Currently working on:** Meeting Minute generation from raw audio using NLP 
+- **🔭 Currently working on:** Nepali hate content classification
 - **🌱 Learning:** NLP, Computer Vision , deep learning , llms
-- **👯 Looking to collaborate on:** AI, ML, Data Science, and Computer Vision projects
+- **👯 Looking to collaborate on:** AI, ML, Data Science, and NLP projects
 - **📫 How to reach me:** [LinkedIn](https://www.linkedin.com/in/uddav-rajbhandari-4998252ab/), [GitHub](https://github.com/UddavRajbhandari)
 
 ## 🚀 Skills and Technologies
 
 - **Programming Languages:** Python, C++
 - **Frameworks and Libraries:** TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV , pytorch
-- **Tools:** Git, GitHub, Microsoft SQL Server, Streamlit
+- **Tools:** Git, GitHub, Microsoft SQL Server, Streamlit , wandb , huggingface
 
 ## 📈 GitHub Stats
 
