@@ -15,7 +15,15 @@ Welcome to my GitHub! I am a Data Science and AI enthusiast passionate about sol
 - **Frameworks and Libraries:** TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV , pytorch
 - **Tools:** Git, GitHub, Microsoft SQL Server, Streamlit , wandb , huggingface
 
-## 🤖 AI / Machine Learning Tools & Languages
+## 📈 GitHub Stats
+
+![Uddav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UddavRajbhandari&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UddavRajbhandari&layout=compact&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UddavRajbhandari&" alt="UddavRajbhandari" /></p>
+
+---
+
+## 🤖 Tools & Languages
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
