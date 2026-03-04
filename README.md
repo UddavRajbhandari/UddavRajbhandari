@@ -1,59 +1,60 @@
-# Hello, I'm Uddav Rajbhandari 👋
+# Hi, I'm Uddav Rajbhandari 👋  
+### AI Engineer | NLP & Machine Learning
 
-Welcome to my GitHub! I am a Data Science and AI enthusiast passionate about solving real-world problems through Machine Learning and Deep Learning. Here, you'll find my projects and work related to AI, Computer Vision, and Data Science.
+I design and build end-to-end AI systems with a focus on multilingual NLP, deep learning, and production-ready ML pipelines. My work spans model development, evaluation, and deployment using modern AI frameworks.
+
+---
 
 ## 🧠 About Me
 
-- **🔭 Currently working on:** Nepali hate content classification
-- **🌱 Learning:** NLP, Computer Vision , deep learning , llms
-- **👯 Looking to collaborate on:** AI, ML, Data Science, and NLP projects
-- **📫 How to reach me:** [LinkedIn](https://www.linkedin.com/in/uddav-rajbhandari-4998252ab/), [GitHub](https://github.com/UddavRajbhandari)
+- 🔭 Currently working on multilingual NLP and hate content classification
+- 🏗 Experienced in building full ML workflows (EDA → Training → Evaluation → Deployment)
+- 🎯 Focused on NLP, Transformers, and applied ML systems
+- 🤝 Open to collaboration on AI, ML, and NLP projects
 
-## 🚀 Skills and Technologies
+---
 
-- **Programming Languages:** Python, C++
-- **Frameworks and Libraries:** TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV , pytorch
-- **Tools:** Git, GitHub, Microsoft SQL Server, Streamlit , wandb , huggingface
+## 🚀 Technical Expertise
 
-## 📈 GitHub Stats
+### 🔹 Machine Learning
+- Classification, Regression, Feature Engineering
+- Model Evaluation (F1-score, ROUGE, BLEU, BERTScore)
+- Hyperparameter Tuning & Error Analysis
+
+### 🔹 Deep Learning
+- CNN, LSTM, GRU
+- Transformer Models (XLM-R, BART)
+- Whisper ASR
+- PyTorch & TensorFlow
+
+### 🔹 Natural Language Processing
+- Multilingual NLP (Devanagari & Romanized text)
+- Text Classification & Hate Speech Detection
+- Summarization Systems
+- Sentiment & Tone Analysis
+
+### 🔹 Tools & Deployment
+- FastAPI (Model Deployment)
+- Streamlit (Interactive ML Apps)
+- MLflow / Weights & Biases
+- Hugging Face
+- Git & Experiment Tracking
+
+---
+
+## 📊 GitHub Stats
 
 ![Uddav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UddavRajbhandari&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UddavRajbhandari&layout=compact&theme=radical)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UddavRajbhandari&" alt="UddavRajbhandari" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UddavRajbhandari)
 
 ---
 
-## 🤖 Tools & Languages
-
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a>
-  <a href="https://www.jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
-  </a>
-</p>
-
-
-## 📚 Education
-
-- **Bachelor in Computer Engineering**, Khwopa College of Engineering (Expected: 2083 BS)
+## 🎓 Education
+Bachelor in Computer Engineering  
+Khwopa College of Engineering (Expected: 2026)
 
 ---
 
-Thanks for visiting my profile! Let's connect and build something amazing together.
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/uddav-rajbhandari-4998252ab/
