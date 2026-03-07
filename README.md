@@ -24,7 +24,6 @@ I design and build end-to-end AI systems with a focus on multilingual NLP, deep 
 ### 🔹 Deep Learning
 - CNN, LSTM, GRU
 - Transformer Models (XLM-R, BART)
-- Whisper ASR
 - PyTorch & TensorFlow
 
 ### 🔹 Natural Language Processing
