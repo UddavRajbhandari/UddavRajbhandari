@@ -44,10 +44,11 @@ I design and build end-to-end AI systems with a focus on multilingual NLP, deep 
 
 ## 📊 GitHub Stats
 
-![Uddav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UddavRajbhandari&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UddavRajbhandari&layout=compact&theme=radical&langs_count=8)
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=UddavRajbhandari&theme=radical)
+![Uddav's GitHub Stats](https://github-readme-stats-theta-orcin-r14jpjmqtr.vercel.app/api?username=UddavRajbhandari&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats-theta-orcin-r14jpjmqtr.vercel.app/api/top-langs/?username=UddavRajbhandari&layout=compact&theme=radical&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=UddavRajbhandari&theme=radical)
 ---
 
 ## 🎓 Education
